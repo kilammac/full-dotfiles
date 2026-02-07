@@ -1,0 +1,9 @@
+# Ignorer tout à la racine
+/*
+# Ignorer les sous-dossiers de .config sauf les deux spécifiés
+/config/*
+!/config/hypr/
+!/config/waybar/
+# Ignorer .gitignore lui-même si besoin (optionnel)
+!.gitignore
+
