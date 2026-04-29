@@ -3,5 +3,7 @@
 
 !hypr/
 !hypr/**
+!nvim/
+!nvim/**
 !fastfetch/
 !fastfetch/**
